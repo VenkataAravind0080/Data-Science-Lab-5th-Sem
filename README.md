@@ -6,13 +6,6 @@ This repository contains all the programs, assignments, datasets, and lab exerci
 
 The purpose of this repository is to maintain and organize my Data Science practical work, including data processing, analysis, visualization, and machine learning-related experiments.
 
-## Repository Contents
-
-| File/Folder    | Description                                   |
-| -------------- | --------------------------------------------- |
-| `.ipynb` files | Jupyter Notebook programs and lab experiments |
-| `.json` files  | Sample datasets used for analysis             |
-| `.csv` files   | Output files and processed datasets           |
 
 ## Technologies Used
 
